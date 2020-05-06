@@ -1,15 +1,19 @@
-Hi, my name is Aleksandr Groznykh. These days I make visual art with neural networks. See https://mlart.org
+# Hi, my name is Aleksandr Groznykh. 
 
-Here is a list of other links related to me, mainly for people who know more about me. 
+## These days I make visual art with neural networks. 
 
-https://github.com/algroznykh
+### Check [mlart.org](https://mlart.org)
 
-https://glitch.com/@alg
+## Here is a list of other links related to me (mainly for people who know me in person):
 
-https://twitter.com/algroznykh
+[github](https://github.com/algroznykh)
 
-https://t.me/lucidintheskywithdata
+[glitch](https://glitch.com/@alg)
 
-https://t.me/talksplus
+[twitter](https://twitter.com/algroznykh)
 
-https://instagram.com/algroznykh
+[ml art experiments](https://t.me/lucidintheskywithdata)
+
+[some talks I liked](https://t.me/talksplus)
+
+[instagram](https://instagram.com/algroznykh)
