@@ -1,4 +1,8 @@
+
+
 # Hi, my name is Aleksandr Groznykh. 
+
+[](me.jpg)
 
 ## These days I make visual art with neural networks. 
 
