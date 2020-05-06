@@ -2,7 +2,7 @@
 
 # Hi, my name is Aleksandr Groznykh. 
 
-![](me.jpg)
+![](me.png)
 
 ## These days I make visual art with neural networks. 
 
