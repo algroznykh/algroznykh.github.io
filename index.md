@@ -2,9 +2,9 @@
 
 ## These days I make visual art with neural networks. 
 
-### Check [mlart.org](https://mlart.org)
+## Check [mlart.org](https://mlart.org)
 
-## Here is a list of other links related to me (mainly for people who know me in person):
+### Here is a list of other links related to me (mainly for people who know me in person):
 
 [github](https://github.com/algroznykh)
 
