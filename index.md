@@ -21,3 +21,5 @@
 [some talks I liked](https://t.me/talksplus)
 
 [instagram](https://instagram.com/algroznykh)
+
+[hightlights from my year-long sabbatical](http://giraffecrew.tilda.ws/)
