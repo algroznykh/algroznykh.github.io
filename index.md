@@ -2,8 +2,6 @@
 
 # Hi, my name is Aleksandr Groznykh. 
 
-![](me.png)
-
 ## These days I make visual art with neural networks. 
 
 ## Check [mlart.org](https://mlart.org)
